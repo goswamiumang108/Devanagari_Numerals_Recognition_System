@@ -88,7 +88,7 @@ whose description may be found in the research paper –
 ## Output
 <img width="948" height="449" alt="image" src="https://github.com/user-attachments/assets/0e6e638c-ecfa-4a2b-8d14-d3e7c2179caa" />
 <img width="948" height="442" alt="image" src="https://github.com/user-attachments/assets/46120a3d-e70e-4f21-880a-85f688a3c73d" />
+
 ## References
-> Handwritten Devanāgarī characters - vowels and numerals (38,750 isolated images + 9,200 isolated images). (2023). [Dataset]. In Mendeley Data (Version 4). doi:10.17632/pxrnvp4yy8.4 Retrived from https://data.mendeley.com/datasets/pxrnvp4yy8/4 
-> 
+> Handwritten Devanāgarī characters - vowels and numerals (38,750 isolated images + 9,200 isolated images). (2023). [Dataset]. In Mendeley Data (Version 4). doi:10.17632/pxrnvp4yy8.4 Retrived from https://data.mendeley.com/datasets/pxrnvp4yy8/4
 > Prashanth, D. S., Mehta, R. V. K., & Challa, N. P. (2021). A multi-purpose dataset of Devanāgarī script comprising of isolated numerals and vowels. Data in Brief, 40, 107723. https://doi.org/10.1016/j.dib.2021.107723 Retrived from https://pdf.sciencedirectassets.com/311593/1-s2.0-S2352340921X00078/1-s2.0-S2352340921009987/main.pdf
