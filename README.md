@@ -1,17 +1,21 @@
 # Devanagari_Numerals_Recognition_System
 
 ## Abstract
-This project, **"Devanāgarī Numerals Recognition System"**, developed by Umang Goswami, aims to create a robust and reliable system for the recognition of Devanāgarī numerals. The is to develop a highly accurate and efficient Devanāgarī numeral recognition system that can be seamlessly integrated into a wide range of applications, ultimately enhancing the processing and management of Devanāgarī-based data.
+This project, **"Devanāgarī Numerals Recognition System"**, developed by Umang Goswami, aims to create a robust and reliable system for the recognition of Devanāgarī numerals. The goal is to develop a highly accurate and efficient Devanāgarī numeral recognition system that can be seamlessly integrated into a wide range of applications, ultimately enhancing the processing and management of Devanāgarī-based data.
+
 The system leverages state-of-the-art machine learning algorithms to accurately identify hand-written Devanāgarī numerals, enabling highly efficient and precise data processing in various applications that necessitate Devanāgarī numeral recognition. These applications span diverse domains, including document processing, financial data analysis, and information extraction from Devanāgarī-based documents. 
+
 By harnessing advanced computational techniques, this innovative system promises to significantly enhance the accuracy and productivity of tasks involving Devanāgarī numeral recognition, contributing to improved data management and analysis across various industries and research fields. 
 ## Technologies Used
-The Devanāgarī Numerals Recognition System utilizes a combination of advanced machine learning techniques and image processing algorithms to achieve high-accuracy recognition of Devanāgarī numerals. Specifically, the system employs Convolutional Neural Networks as the primary deep learning architecture for image classification.
-The neural networks are trained on a large and diverse dataset of Devanāgarī numeral images, comprising a total of 26,500 samples. This extensive training enables the system to learn the distinctive features and patterns associated with each numeral, allowing for highly accurate recognition of hand-written Devanāgarī numerals. The system's performance has been extensively evaluated, demonstrating its robustness and reliability in a variety of real-world applications.
-In brief various technologies used for the development of the aforementioned project are as follows:
+The Devanāgarī Numerals Recognition System utilises a combination of advanced machine learning techniques and image processing algorithms to achieve high-accuracy recognition of Devanāgarī numerals. Specifically, the system employs Convolutional Neural Networks as the primary deep learning architecture for image classification.
+
+The neural networks are trained on a large and diverse dataset of Devanāgarī numeral images, comprising a total of 26,500 samples. This extensive training enables the system to learn the distinctive features and patterns associated with each numeral, allowing for highly accurate recognition of hand-written Devanāgarī numerals. The system's performance has been extensively evaluated, demonstrating its robustness and reliability in various real-world applications.
+
+In brief, various technologies used for the development of the aforementioned project are as follows:
 - **IDE:** Pycahrm 2024.1 (Professional Edition)
 - **Programming Language:** Python v. 3.12
 - **Various Libraries used:** `scikit-learn`, `OpenCV`, `TensorFlow`, `NumPy`, `SciPy`, `Keras`, `pillow`, etc. For the complete list of libraries use see `requirements.txt`
-Specifications of the computer systems used for development of the project are: 
+Specifications of the computer systems used for the development of the project are: 
 - **Processor:** 12th Gen Intel(R) Core(TM) i7-12650H @ 2.30 GHz
 - **Installed RAM:** 16.0 GB (15.7 GB usable)
 - **Internal Storage:** 1 GB SSD
@@ -74,7 +78,7 @@ The system requirements for the successful installation and operation of the Dev
 - **Processor:** The system requires at least an Intel Core i5 processor or an equivalent, with a clock speed of 2.0 GHz or higher. This level of processing power is necessary to handle the computationally intensive tasks involved in the recognition and classification of the Devanāgarī numerals.
 - **RAM:** A minimum of 8 GB of RAM is recommended for the smooth operation of the system. This amount of memory ensures that the system can efficiently load and process the large datasets required for training and running the machine learning models.
 - **Storage:** The system requires 25 GB of available disk space to accommodate the installation files, the training dataset, and any additional resources needed for the recognition process.
-- **Display:** A display with a resolution of 1080p or higher is recommended for optimal visualization and interaction with the system's interface.
+- **Display:** A display with a resolution of 1080p or higher is recommended for optimal visualisation and interaction with the system's interface.
 ### Software Requirements:
 - **Operating System:** The Devanāgarī Numerals Recognition System is designed to operate on at least Windows 10 or Windows 11 operating systems, or their equivalent. These modern operating systems provide the necessary software environment and libraries to support the system's functionality.
 - **Python:** The system requires Python version 3.12 or higher to be installed, as the codebase and supporting libraries are developed using this programming language. This version of Python ensures compatibility with the latest advancements in machine learning and image processing libraries.
@@ -92,4 +96,4 @@ whose description may be found in the research paper –
 ## References
 > Handwritten Devanāgarī characters - vowels and numerals (38,750 isolated images + 9,200 isolated images). (2023). [Dataset]. In Mendeley Data (Version 4). doi:10.17632/pxrnvp4yy8.4 Retrived from https://data.mendeley.com/datasets/pxrnvp4yy8/4
 
-> Prashanth, D. S., Mehta, R. V. K., & Challa, N. P. (2021). A multi-purpose dataset of Devanāgarī script comprising of isolated numerals and vowels. Data in Brief, 40, 107723. https://doi.org/10.1016/j.dib.2021.107723 Retrived from https://pdf.sciencedirectassets.com/311593/1-s2.0-S2352340921X00078/1-s2.0-S2352340921009987/main.pdf
+> Prashanth, D. S., Mehta, R. V. K., & Challa, N. P. (2021). A multi-purpose dataset of Devanāgarī script comprising of isolated numerals and vowels. Data in Brief, 40, 107723. https://doi.org/10.1016/j.dib.2021.107723 Retrieved from https://pdf.sciencedirectassets.com/311593/1-s2.0-S2352340921X00078/1-s2.0-S2352340921009987/main.pdf
