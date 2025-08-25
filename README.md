@@ -1,0 +1,1 @@
+# Devanagari_Numerals_Recognition_System
